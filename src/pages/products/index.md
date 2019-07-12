@@ -97,5 +97,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: Great for families of 100 people or more
+      items:
+        - 90 lbs of coffee per month
+        - Ground beans only
+        - May contain sawdust
+      plan: Giant
+      price: '100'
 ---
 
